@@ -94,7 +94,7 @@ function mostrarTabla(){
     	}
 		cont=cont+1;
 
-		raizzz="LA RAÍZ ES: "+fpn;
+		raizzz="LA RAÍZ ES: "+pn;
 
 		
 
